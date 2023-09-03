@@ -1,0 +1,4 @@
+name: FZAuth
+version: '${project.version}'
+main: com.findzach.fzauth.FZAuth
+api-version: 1.20
